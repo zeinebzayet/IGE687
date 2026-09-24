@@ -11,4 +11,6 @@ IFT187: https://github.com/christina-khnaisser/IFT187
 
 # Responsable 
 Zeineb Zaiet \
+Chargée de cours et étudiante à la maitrise en génie logiciel (cheminement recherche) \
+Département d’informatique, Faculté des sciences \
 Zeineb.Zaiet@usherbrooke.ca
